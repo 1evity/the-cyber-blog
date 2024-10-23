@@ -2,26 +2,26 @@
 /* Fonts */
 @font-face {
     font-family: 'nuggets';
-    src: url('assets/Fonts/AudioNugget.ttf') format('truetype');
+    src: url('/assets/Fonts/AudioNugget.ttf') format('truetype');
     font-style: normal;
 }
 
 @font-face {
     font-family: 'hemi';
-    src: url('assets/Fonts/hemi head bd it.otf') format('opentype');
+    src: url('/assets/Fonts/hemi head bd it.otf') format('opentype');
     font-style: normal;
 }
 
 @font-face {
     font-family: 'libel';
-    src: url("assets/Fonts/libel-suit-rg.otf") format('opentype');
+    src: url('/assets/Fonts/libel-suit-rg.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'pirulen';
-    src: url('assets/Fonts/pirulen rg.otf') format('opentype');
+    src: url('/assets/Fonts/pirulen rg.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
