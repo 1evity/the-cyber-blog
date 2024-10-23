@@ -1,6 +1,20 @@
-# the-cyber-blog 
+# The Cyber Blog 🪐
 This is my first front-end web development project :)
 
+
+
 ## Overview (𝓲)
-**Concept** - A blogging site, exactly similar in features and design to the classic 2000s blogs. <br>
-**Stack** - HTML//CSS//JS
+
+**Concept** - A very simple blog site. <br>
+**Stack** - HTML//CSS <br>
+**Theme** - Retro
+
+
+
+## Features 💫
+
+#### ▶ Grid and Flex layouts
+#### ▶ Responsive design (media query)
+#### ▶ Use of semantic elements and as less divs as possible
+#### ▶ Navbar, card, buttons and sidebar
+
