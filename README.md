@@ -1,6 +1,6 @@
 # The Cyber Blog 🪐
 This is my first front-end web development project :)
-
+https://1evity.github.io/the-cyber-blog/
 
 
 ## Overview (𝓲)
