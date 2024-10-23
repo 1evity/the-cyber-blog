@@ -5,7 +5,7 @@
 
 body {
     background-color: rgb(46, 27, 102);
-    background-image: url('assets/Images/space.png');
+    background-image: url(assets/Images/space.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
